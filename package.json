@@ -19,6 +19,7 @@
   "homepage": "https://github.com/irwantowibowo1992/API-Webtoon#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-group-routes": "^1.1.0",
     "express-jwt": "^5.3.1",
